@@ -15,6 +15,3 @@ Machine Learning · GenAI · RAG Pipelines · Recommender Systems · Explainable
 
 📫 Contact: afrooz.mohandesian@gmail.com
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afrooz-mohandesian/) 
